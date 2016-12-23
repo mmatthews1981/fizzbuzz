@@ -2,6 +2,10 @@
 
 ## History
 
+2.2.0 gleanball.js -- That results variable isn't actually needed. Lets get rid of it. 
+
+2.1.0 grailboss.js -- Some people hate if statements. I'm not one of those people, but lets turn everything into ternary operators anyway.
+
 2.0.0 FizzBuzz -- Originally all of these functions existed in separate repositories. That's a pain in the ass, so they've all been integrated into a single repository, and the old repositories have been deleted. Therefore, I've renamed the project The Evolution of FizzBuzz, because it's more descriptive. 
 
 1.5.0 grillmoss.js -- That while loop bothers me. Let's make the leap and convert this function into a recursive function. Also, there's no particular reason we need to assign the function to a variable, so let's not do that. Finally, the instructions to run this function have been updated to be more explicit.
