@@ -2,11 +2,13 @@
 
 ## History
 
+3.1.1 -- just tweaking the readme a bit. 
+
 3.1.0 meatpile.js -- The world doesn't have enough case switches, but today we help contribute to the solution. 
 
-3.0.0 deathpill.js -- You know what we do need, though? Function arguments. That's a breaking change, so welcome to FizzBuzz3. You can now define the value to fizz on, the value to buzz on, the number to start on, and the number to end on. 
+3.0.0 deathpill.js -- You know what we do need, though? Function arguments. That's a breaking change, so welcome to FizzBuzz3. You can now define the value to fizz on, the value to buzz on, the number to start on, and the number to end on and I realize that's a lot of arguments but FizzBuzz is serious business, yo. 
 
-2.3.0 cleathill.js -- You know what we don't need? An incrementor. 
+2.3.0 cleathill.js -- You know what we also don't need? An incrementor. 
 
 2.2.0 gleanball.js -- That results variable isn't actually needed. Lets get rid of it. 
 
