@@ -2,6 +2,8 @@
 
 ## History
 
+2.3.0 cleathill.js -- You know what we don't need? An incrementor. 
+
 2.2.0 gleanball.js -- That results variable isn't actually needed. Lets get rid of it. 
 
 2.1.0 grailboss.js -- Some people hate if statements. I'm not one of those people, but lets turn everything into ternary operators anyway.
