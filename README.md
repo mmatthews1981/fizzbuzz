@@ -2,6 +2,8 @@
 
 ## History
 
+3.0.0 deathpill.js -- You know what we do need, though? Function arguments. That's a breaking change, so welcome to FizzBuzz3. You can now define the value to fizz on, the value to buzz on, the number to start on, and the number to end on. 
+
 2.3.0 cleathill.js -- You know what we don't need? An incrementor. 
 
 2.2.0 gleanball.js -- That results variable isn't actually needed. Lets get rid of it. 
